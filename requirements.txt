@@ -1,0 +1,6 @@
+googletrans
+pyrogram
+tgcrypto
+requests
+aiohttp>=3.7.1
+PyYAML
